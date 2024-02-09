@@ -21,4 +21,8 @@ This is the [notebook](https://github.com/sohaibabdullah/Technical-Discussion/bl
 
 [![What is markdown](https://i.ytimg.com/vi/IKfsjUy76Cc/maxresdefault.jpg)](https://www.youtube.com/watch?v=IKfsjUy76Cc "What is markdown")    
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IKfsjUy76Cc?si=GWfRH0PrORsS5Znn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=nTQUwghvy5Q" target="_blank">
+ <img src="http://img.youtube.com/vi/nTQUwghvy5Q/mqdefault.jpg" alt="Watch the video" width="240" height="180" border="10" />
+</a>
+
+
