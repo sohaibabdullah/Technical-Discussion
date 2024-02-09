@@ -17,4 +17,4 @@ This is the [notebook](https://github.com/sohaibabdullah/Technical-Discussion/bl
 ![image](https://github.com/sohaibabdullah/Technical-Discussion/assets/37784353/42b8cd68-8450-4648-9dfc-1f6c3a245625)
 
 ### video
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/IKfsjUy76Cc/0.jpg)](https://youtu.be/IKfsjUy76Cc?si=IeNKXrPThSZIvnzZ)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/IKfsjUy76Cc/1.jpg)](https://youtu.be/IKfsjUy76Cc?si=IeNKXrPThSZIvnzZ)
