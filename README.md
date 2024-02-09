@@ -18,3 +18,7 @@ This is the [notebook](https://github.com/sohaibabdullah/Technical-Discussion/bl
 
 ### Youtube Video Link
 [![An Youtube video on Markdown](https://img.youtube.com/vi/IKfsjUy76Cc/0.jpg)](https://youtu.be/IKfsjUy76Cc?si=IeNKXrPThSZIvnzZ)
+
+[![What is markdown]          // Title
+(https://i.ytimg.com/vi/IKfsjUy76Cc/maxresdefault.jpg)] // Thumbnail
+(https://www.youtube.com/watch?v=IKfsjUy76Cc "What is markdown")    // Video Link
